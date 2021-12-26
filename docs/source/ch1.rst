@@ -1,4 +1,4 @@
-API
+OUTLineAPI
 ===
 
 .. autosummary::

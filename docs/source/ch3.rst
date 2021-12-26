@@ -1,4 +1,4 @@
-Usage
+Ch3
 =====
 
 .. _installation:
